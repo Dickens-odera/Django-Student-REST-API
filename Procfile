@@ -1,1 +1,1 @@
-web :gunicorn StudentApi.wsgi
+web :gunicorn StudentApi.StudentApi.wsgi
