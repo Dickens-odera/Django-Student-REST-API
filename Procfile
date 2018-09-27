@@ -1,1 +1,1 @@
-web : gunicorn StudentApi.wsgi 
+web : gunicorn student_restful_api.wsgi 
