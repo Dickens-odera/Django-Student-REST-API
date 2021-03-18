@@ -1,4 +1,4 @@
-Django==2.2.10
+Django==2.2.18
 django-allauth==0.36.0
 django-crispy-forms==1.7.2
 django-filter==2.0.0
